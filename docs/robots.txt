@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raviiolii.github.io/docq-ai/sitemap.xml
